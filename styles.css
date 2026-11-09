@@ -1,6 +1,6 @@
 :root{
   --ink:#303724;          /* official: deep olive green (hot-cup color) */
-  --tan:#D6B298;          /* sampled from logo file; official hex not finalized */
+  --tan:#D2B8A1;          /* brand beige, from supplied swatch (hex not finalized) */
   --cream:#F1E3D4;        /* sampled: post text */
   --paper:color-mix(in srgb,var(--cream) 55%,#fff);
   --sand:#AE8B6B;         /* sampled: post heading */
